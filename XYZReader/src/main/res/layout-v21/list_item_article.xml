@@ -12,6 +12,7 @@
     app:cardPreventCornerOverlap="false"
     app:cardCornerRadius="2dp"
     app:cardUseCompatPadding="true"
+    android:stateListAnimator="@anim/card_selector"
     android:foreground="?selectableItemBackground">
 
     <LinearLayout
